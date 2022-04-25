@@ -1,0 +1,7 @@
+rabbit.hosts=127.0.0.1
+rabbit.username=hrabbit
+rabbit.password=123
+rabbit.port=5672
+rabbit.virtualHost=/hrabbit
+# 统一XML配置中易变部分的命名
+rabbit.queue=rabbitmq_test
