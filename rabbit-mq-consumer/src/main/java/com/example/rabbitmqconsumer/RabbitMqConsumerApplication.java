@@ -32,7 +32,5 @@ public class RabbitMqConsumerApplication {
             e.printStackTrace();
             log.error("解析字符串异常----?>>{}",e.getMessage());
         }
-
-
     }
 }

@@ -3,12 +3,13 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/rocketmq-exmaple/pom.xml" />
         <option value="$PROJECT_DIR$/websocket-example/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit-mq-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit-mq-provider/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="jbr-11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/rocketmq-exmaple/rabbitmq-exmaple.iml" filepath="$PROJECT_DIR$/rocketmq-exmaple/rabbitmq-exmaple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbit-mq-consumer/rabbit-mq-consumer.iml" filepath="$PROJECT_DIR$/rabbit-mq-consumer/rabbit-mq-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbit-mq-provider/rabbit-mq-provider.iml" filepath="$PROJECT_DIR$/rabbit-mq-provider/rabbit-mq-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/websocket-example/websocket-example.iml" filepath="$PROJECT_DIR$/websocket-example/websocket-example.iml" />
     </modules>
   </component>

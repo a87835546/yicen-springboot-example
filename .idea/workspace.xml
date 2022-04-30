@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ab13390-c7f4-41e5-8e6b-10dce948f062" name="变更" comment="" />
+    <list default="true" id="1fdd1400-aec7-4b32-88ae-99d9bfadf2c7" name="变更" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,35 +13,174 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="28HOD18bdMx5u89ca380NPwy0T3" />
+  <component name="ProjectId" id="28HRqlwsskIJ1yl74TM59o3UPNH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="GitStage.ChangesTree.GroupingKeys" value="directory&#10;module&#10;repository" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="project.structure.last.edited" value="模块" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/rabbit-mq-consumer/src/main/resources" />
+    <property name="project.structure.last.edited" value="项目" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/rabbit-mq-consumer/src/main/resources" />
+      <recent name="$PROJECT_DIR$/rocketmq-exmaple/src/main/java/com/example/rocketmqexmaple" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.rocketmqexmaple" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RabbitMqProviderApplication">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="websocket-example" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="websocket-example" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitMqConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rabbit-mq-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.rabbitmqconsumer.RabbitMqConsumerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitMqProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rabbit-mq-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.rabbitmqprovider.RabbitMqProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebsocketExampleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="websocket-example" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.websocketexample.WebsocketExampleApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.RabbitMqConsumerApplication" />
+      <item itemvalue="Spring Boot.RabbitMqProviderApplication" />
+      <item itemvalue="Spring Boot.WebsocketExampleApplication" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="6ab13390-c7f4-41e5-8e6b-10dce948f062" name="变更" comment="" />
-      <created>1650869921847</created>
+      <changelist id="1fdd1400-aec7-4b32-88ae-99d9bfadf2c7" name="变更" comment="" />
+      <created>1650871718950</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1650869921847</updated>
-      <workItem from="1650869923227" duration="228000" />
+      <updated>1650871718950</updated>
+      <workItem from="1650871720604" duration="5017000" />
+      <workItem from="1650880048125" duration="7051000" />
+      <workItem from="1650891905325" duration="597000" />
+      <workItem from="1650956307155" duration="597000" />
+      <workItem from="1650957713256" duration="584000" />
+      <workItem from="1650968985408" duration="4192000" />
     </task>
+    <task id="LOCAL-00001" summary="添加git ignore">
+      <created>1650871829869</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650871829869</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加rabbit mq">
+      <created>1650879436019</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650879436019</updated>
+    </task>
+    <task id="LOCAL-00003" summary="添加rabbit mq">
+      <created>1650887156555</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650887156555</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加git ignore" />
+    <MESSAGE value="添加rabbit mq" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加rabbit mq" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/rabbit-mq-consumer/src/main/java/com/example/rabbitmqconsumer/RabbitMqConsumerApplication.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

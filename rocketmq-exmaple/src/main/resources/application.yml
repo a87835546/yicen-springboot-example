@@ -1,7 +1,21 @@
-rabbit.hosts=127.0.0.1
-rabbit.username=hrabbit
-rabbit.password=123
-rabbit.port=5672
-rabbit.virtualHost=/hrabbit
-# 统一XML配置中易变部分的命名
-rabbit.queue=rabbitmq_test
+rabbit:
+  hosts: http://13.213.1.223/
+  username: admin
+  password: admin
+  port: 5672
+  virtualHost: /hrabbit
+  # 统一XML配置中易变部分的命名
+  queue: rabbitmq_test
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://database-1.cjyntu0au13f.ap-southeast-1.rds.amazonaws.com:3306/resiklos_db?useUnicode=true&characterEncoding=UTF-8&serverTimezone=GMT
+    username: admin
+    password: Sugarotect2022**
+    type: com.alibaba.druid.pool.DruidDataSource
+
+
+server:
+  port: 8082
+
